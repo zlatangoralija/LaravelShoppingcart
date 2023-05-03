@@ -13,11 +13,6 @@
             "name": "Patrick Henninger",
             "email": "privat@skyraptor.eu",
             "homepage": "https://skyraptor.eu/"
-        },
-        {
-            "name": "Zlatan Goralija",
-            "email": "goralijazlatan@gmail.com",
-            "homepage": "https://github.com/zlatangoralija"
         }
     ],
     "require": {
